@@ -1,4 +1,4 @@
-package com.example.a06_5
+package com.example.myapplication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

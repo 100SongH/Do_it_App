@@ -14,5 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidPr"
 include ':app'
-include ':07-6'
-include ':06-5'
+include ':c07'
+include ':c06'
+include ':c08'
+include ':c09'
+
